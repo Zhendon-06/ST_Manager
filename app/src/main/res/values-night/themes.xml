@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ST_Manager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@color/wechat_background</item>
+        <item name="android:statusBarColor">@color/wechat_green_dark</item>
+        <item name="android:colorAccent">@color/wechat_green</item>
+        <item name="colorAccent">@color/wechat_green</item>
+        <item name="colorPrimary">@color/wechat_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/wechat_green_soft</item>
+        <item name="colorOnPrimaryContainer">@color/wechat_green_dark</item>
+        <item name="colorPrimaryInverse">@color/wechat_bubble_green</item>
+        <item name="colorSecondary">@color/wechat_green_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/wechat_green_soft</item>
+        <item name="colorOnSecondaryContainer">@color/wechat_text_primary</item>
+        <item name="colorTertiary">@color/wechat_bubble_green</item>
+        <item name="colorOnTertiary">@color/wechat_text_primary</item>
+        <item name="colorTertiaryContainer">@color/wechat_green_soft</item>
+        <item name="colorOnTertiaryContainer">@color/wechat_text_primary</item>
+        <item name="android:colorBackground">@color/wechat_background</item>
+        <item name="colorOnBackground">@color/wechat_text_primary</item>
+        <item name="colorSurface">@color/wechat_surface</item>
+        <item name="colorSurfaceBright">@color/wechat_surface</item>
+        <item name="colorSurfaceDim">@color/wechat_background</item>
+        <item name="colorSurfaceContainerLowest">@color/white</item>
+        <item name="colorSurfaceContainerLow">@color/wechat_surface_high</item>
+        <item name="colorSurfaceContainer">@color/wechat_background</item>
+        <item name="colorSurfaceContainerHigh">@color/wechat_surface_pressed</item>
+        <item name="colorSurfaceContainerHighest">@color/wechat_divider</item>
+        <item name="colorSurfaceVariant">@color/wechat_surface_pressed</item>
+        <item name="colorOnSurface">@color/wechat_text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/wechat_text_secondary</item>
+        <item name="colorOutline">@color/wechat_outline</item>
+        <item name="colorOutlineVariant">@color/wechat_divider</item>
+        <item name="colorError">@color/wechat_danger</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorErrorContainer">@color/wechat_danger_soft</item>
+        <item name="colorOnErrorContainer">@color/wechat_danger</item>
+        <item name="rippleColor">@color/wechat_ripple</item>
+        <item name="materialButtonStyle">@style/Widget.STManager.Button</item>
+        <item name="textInputStyle">@style/Widget.STManager.TextInputLayout</item>
+    </style>
+</resources>

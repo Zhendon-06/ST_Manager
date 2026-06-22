@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="@color/wechat_green_soft"
+        android:pathData="M14,12H34V32H14V12Z" />
+    <path
+        android:fillColor="@color/wechat_green"
+        android:pathData="M8,10C8,7.79 9.79,6 12,6H36C38.21,6 40,7.79 40,10V34C40,36.21 38.21,38 36,38H12C9.79,38 8,36.21 8,34V10ZM12,10V34H36V10H12ZM16,16H32V19H16V16ZM16,23H28V26H16V23ZM16,30H24V33H16V30Z" />
+</vector>

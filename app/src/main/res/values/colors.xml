@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wechat_green">#07C160</color>
+    <color name="wechat_green_dark">#05A653</color>
+    <color name="wechat_green_pressed">#06AD56</color>
+    <color name="wechat_green_soft">#E9F8EF</color>
+    <color name="wechat_bubble_green">#95EC69</color>
+    <color name="wechat_background">#F7F7F7</color>
+    <color name="wechat_surface">#FFFFFF</color>
+    <color name="wechat_surface_high">#FDFDFD</color>
+    <color name="wechat_surface_pressed">#F2F2F2</color>
+    <color name="wechat_text_primary">#1F1F1F</color>
+    <color name="wechat_text_secondary">#8A8A8A</color>
+    <color name="wechat_text_tertiary">#B2B2B2</color>
+    <color name="wechat_divider">#E5E5E5</color>
+    <color name="wechat_outline">#D8D8D8</color>
+    <color name="wechat_danger">#E64340</color>
+    <color name="wechat_danger_soft">#FFF0EF</color>
+    <color name="wechat_warning_soft">#FFF3E0</color>
+</resources>
